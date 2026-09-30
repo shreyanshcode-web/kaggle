@@ -1,0 +1,20 @@
+{
+ "secs": 5496,
+ "merge": {
+  "untouched": 400,
+  "gentle": 0,
+  "aggressive": 0,
+  "no_pc": 0
+ },
+ "promotion_triggers": 0,
+ "popularity_lists": 400,
+ "n_errors": 0,
+ "families": [
+  "derivation",
+  "frag2",
+  "analog_struct",
+  "model_views",
+  "fragnet"
+ ],
+ "gpu": "Tesla T4"
+}

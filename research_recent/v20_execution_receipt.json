@@ -1,0 +1,45 @@
+{
+  "method": "attributed_v4i_popularity_promotion_iceberg_glacier",
+  "resource_manifest_sha256": "d193977598848224e794ba50bd55dfd1b9e46498c3d8ca8f20593f4e21a99b7e",
+  "train_sha256": "9423f90ec08b941a9646b535bf0606183e86ff0c5a297978f5a70693d41bcd98",
+  "test_sha256": "2fa29c4aa06e93b48e0cd6619fd2de3f4e956f0019d242141678b7287f2b43e0",
+  "submission_sha256": "86f0af4da3ad34be5d32fe85adfba66bcf6f7a8229177fd44c96a504fbc7a99c",
+  "molecules": 400,
+  "main_errors": 0,
+  "pubchem_lists": 400,
+  "merge": {
+    "untouched": 400,
+    "gentle": 0,
+    "aggressive": 0,
+    "no_pc": 0
+  },
+  "iceberg": {
+    "molecules": 371,
+    "changed_top25": 365,
+    "changed_top1": 4
+  },
+  "glacier": {
+    "molecules": 371,
+    "changed_vs_ice_top25": 365,
+    "changed_vs_ice_top1": 2
+  },
+  "popularity": {
+    "lists": 400,
+    "pubchem_lambda": 0.25,
+    "union": 200,
+    "pool_mu": 0.15,
+    "manifest_sha256": "b4d3aa114e7ba04c618bb022d7943f0d43f0333ecd578dacbe15b8a666b3d67f"
+  },
+  "promotion": {
+    "triggers": 0,
+    "promote_threshold": 6.0,
+    "promote_min_popularity": 5.0,
+    "early_threshold": 5.0
+  },
+  "forward_weights": {
+    "iceberg": 1.0,
+    "glacier": 1.0
+  },
+  "glacier_manifest_sha256": "53bf3f8724cb0d8ddbb104254deda88b0a90502e3ab031aa42cbbf010b38634d",
+  "elapsed_seconds": 5557.2
+}

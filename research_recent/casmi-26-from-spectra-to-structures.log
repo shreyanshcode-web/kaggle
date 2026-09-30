@@ -1,0 +1,184 @@
+[{"stream_name":"stderr","time":7.55714829,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.5572096989999995,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.557215599,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.557220841,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.165339103,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.165378054,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.165384251,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.165389199,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":14.302527448,"data":"Official-metric RDKit: 2026.03.3\n"}
+,{"stream_name":"stdout","time":34.36381974,"data":"Stored InChIKey14 groups found in \u003e1 source library: 28,113 (10.19%)\n"}
+,{"stream_name":"stdout","time":44.317351646,"data":"Distinct free-text instrument labels: 82\n"}
+,{"stream_name":"stdout","time":63.88509901,"data":"Descriptor sample: 20,000 valid molecules; 0 parse failures\n"}
+,{"stream_name":"stdout","time":68.667107315,"data":"152,717 known natural products: 8.2% have a training spectrum and 98.2% are in the candidate pool; 11,101 lack a pathway annotation.\n"}
+,{"stream_name":"stdout","time":324.26409908,"data":"Verified source files: 134\n"}
+,{"stream_name":"stdout","time":326.949866392,"data":"Popularity prior PubChem Compound Extras 2026-09-27 lambda 0.25 union 200 pool mu 0.15\n"}
+,{"stream_name":"stdout","time":3199.599206589,"data":"logits for 400 molecules 20s\n"}
+,{"stream_name":"stdout","time":3199.599244719,"data":"  pubchem 25/400 196s\n"}
+,{"stream_name":"stdout","time":3199.599263197,"data":"  pubchem 50/400 378s\n"}
+,{"stream_name":"stdout","time":3199.599269204,"data":"  pubchem 75/400 537s\n"}
+,{"stream_name":"stdout","time":3199.599274445,"data":"  pubchem 100/400 725s\n"}
+,{"stream_name":"stdout","time":3199.59927978,"data":"  pubchem 125/400 895s\n"}
+,{"stream_name":"stdout","time":3199.599285042,"data":"  pubchem 150/400 1091s\n"}
+,{"stream_name":"stdout","time":3199.599289967,"data":"  pubchem 175/400 1274s\n"}
+,{"stream_name":"stdout","time":3199.599294527,"data":"  pubchem 200/400 1455s\n"}
+,{"stream_name":"stdout","time":3199.599298999,"data":"  pubchem 225/400 1619s\n"}
+,{"stream_name":"stdout","time":3199.599303424,"data":"  pubchem 250/400 1805s\n"}
+,{"stream_name":"stdout","time":3199.599307981,"data":"  pubchem 275/400 1974s\n"}
+,{"stream_name":"stdout","time":3199.599317915,"data":"  pubchem 300/400 2142s\n"}
+,{"stream_name":"stdout","time":3199.599321334,"data":"  pubchem 325/400 2332s\n"}
+,{"stream_name":"stdout","time":3199.599324409,"data":"  pubchem 350/400 2510s\n"}
+,{"stream_name":"stdout","time":3199.59932749,"data":"  pubchem 375/400 2691s\n"}
+,{"stream_name":"stdout","time":3199.599330546,"data":"  pubchem 400/400 2864s\n"}
+,{"stream_name":"stdout","time":3199.599333686,"data":"pc_runner done 400 2864s\n"}
+,{"stream_name":"stdout","time":3199.599336782,"data":"\n"}
+,{"stream_name":"stdout","time":3199.599339849,"data":"\n"}
+,{"stream_name":"stdout","time":3199.599343184,"data":"pubchem lists 400 2876s\n"}
+,{"stream_name":"stdout","time":3209.143847548,"data":"rg 0: 131072 spectra, 8056471 peaks, total peaks 8056471, 9s\n"}
+,{"stream_name":"stdout","time":3215.283365943,"data":"rg 1: 131072 spectra, 7943857 peaks, total peaks 16000328, 15s\n"}
+,{"stream_name":"stdout","time":3221.192516778,"data":"rg 2: 131072 spectra, 7940932 peaks, total peaks 23941260, 21s\n"}
+,{"stream_name":"stdout","time":3226.941350271,"data":"rg 3: 131072 spectra, 7902093 peaks, total peaks 31843353, 27s\n"}
+,{"stream_name":"stdout","time":3232.739895448,"data":"rg 4: 131072 spectra, 7987759 peaks, total peaks 39831112, 33s\n"}
+,{"stream_name":"stdout","time":3238.313581306,"data":"rg 5: 131072 spectra, 7932300 peaks, total peaks 47763412, 38s\n"}
+,{"stream_name":"stdout","time":3243.743646528,"data":"rg 6: 131072 spectra, 7917009 peaks, total peaks 55680421, 44s\n"}
+,{"stream_name":"stdout","time":3249.497025953,"data":"rg 7: 131072 spectra, 7907716 peaks, total peaks 63588137, 50s\n"}
+,{"stream_name":"stdout","time":3255.260769599,"data":"rg 8: 131072 spectra, 8532604 peaks, total peaks 72120741, 55s\n"}
+,{"stream_name":"stdout","time":3260.779783528,"data":"rg 9: 131072 spectra, 11067599 peaks, total peaks 83188340, 61s\n"}
+,{"stream_name":"stdout","time":3264.762440046,"data":"rg 10: 131072 spectra, 6944108 peaks, total peaks 90132448, 65s\n"}
+,{"stream_name":"stdout","time":3271.225729244,"data":"rg 11: 131072 spectra, 11047607 peaks, total peaks 101180055, 71s\n"}
+,{"stream_name":"stdout","time":3273.662803941,"data":"rg 12: 131072 spectra, 4306455 peaks, total peaks 105486510, 74s\n"}
+,{"stream_name":"stdout","time":3276.305450123,"data":"rg 13: 131072 spectra, 4384884 peaks, total peaks 109871394, 76s\n"}
+,{"stream_name":"stdout","time":3278.916799781,"data":"rg 14: 131072 spectra, 4353287 peaks, total peaks 114224681, 79s\n"}
+,{"stream_name":"stdout","time":3281.521474012,"data":"rg 15: 131072 spectra, 4390836 peaks, total peaks 118615517, 82s\n"}
+,{"stream_name":"stdout","time":3284.076789952,"data":"rg 16: 131072 spectra, 3587033 peaks, total peaks 122202550, 84s\n"}
+,{"stream_name":"stdout","time":3286.612258602,"data":"rg 17: 131072 spectra, 3264195 peaks, total peaks 125466745, 87s\n"}
+,{"stream_name":"stdout","time":3289.080773249,"data":"rg 18: 131072 spectra, 3297555 peaks, total peaks 128764300, 89s\n"}
+,{"stream_name":"stdout","time":3290.320574608,"data":"rg 19: 48056 spectra, 4310906 peaks, total peaks 133075206, 90s\n"}
+,{"stream_name":"stdout","time":3290.533775094,"data":"rg 20: 1184 spectra, 152902 peaks, total peaks 133228108, 91s\n"}
+,{"stream_name":"stdout","time":3293.227644672,"data":"spectra 2539608 peaks 133228108 sid\u003c0: 0 nm nan: 339\n"}
+,{"stream_name":"stdout","time":3293.227678071,"data":"done 93s\n"}
+,{"stream_name":"stdout","time":3293.227683672,"data":"casmi from /kaggle/working/v4g_sources/v4b/code/casmi/__init__.py\n"}
+,{"stream_name":"stdout","time":3293.227688375,"data":"cache built 2969s\n"}
+,{"stream_name":"stdout","time":3300.609340628,"data":"[Library] 2,539,608 spectra, 275,810 structures, 133,228,108 peaks (1.2s)\n"}
+,{"stream_name":"stdout","time":3301.924344174,"data":"[Pool] 710,701 structures, nbits 10226, frag yes (1.3s)\n"}
+,{"stream_name":"stdout","time":3303.169579827,"data":"[Engine] reps 445,686 (0.4s)\n"}
+,{"stream_name":"stdout","time":3311.21349234,"data":"derivation prior self-test mismatches: 0\n"}
+,{"stream_name":"stdout","time":3311.213794161,"data":"engine ready; ranker features 160 boosters 4 2987s\n"}
+,{"stream_name":"stdout","time":3387.029361764,"data":"  25/400 molecules 3063s\n"}
+,{"stream_name":"stdout","time":3440.370136469,"data":"  50/400 molecules 3116s\n"}
+,{"stream_name":"stdout","time":3492.414222746,"data":"  75/400 molecules 3168s\n"}
+,{"stream_name":"stdout","time":3546.368457646,"data":"  100/400 molecules 3222s\n"}
+,{"stream_name":"stdout","time":3597.071104267,"data":"  125/400 molecules 3273s\n"}
+,{"stream_name":"stdout","time":3649.381596149,"data":"  150/400 molecules 3325s\n"}
+,{"stream_name":"stdout","time":3702.351631095,"data":"  175/400 molecules 3378s\n"}
+,{"stream_name":"stdout","time":3752.78984596,"data":"  200/400 molecules 3429s\n"}
+,{"stream_name":"stdout","time":3803.930424397,"data":"  225/400 molecules 3480s\n"}
+,{"stream_name":"stdout","time":3855.621473555,"data":"  250/400 molecules 3531s\n"}
+,{"stream_name":"stdout","time":3908.543230401,"data":"  275/400 molecules 3584s\n"}
+,{"stream_name":"stdout","time":3960.535865258,"data":"  300/400 molecules 3636s\n"}
+,{"stream_name":"stdout","time":4009.961625945,"data":"  325/400 molecules 3686s\n"}
+,{"stream_name":"stdout","time":4059.538303918,"data":"  350/400 molecules 3735s\n"}
+,{"stream_name":"stdout","time":4114.237763943,"data":"  375/400 molecules 3790s\n"}
+,{"stream_name":"stdout","time":4166.316246033,"data":"  400/400 molecules 3842s\n"}
+,{"stream_name":"stdout","time":4166.318011634,"data":"errors 0 | popularity-ordered lists 400\n"}
+,{"stream_name":"stdout","time":4166.971608717,"data":"ICE input molecules 400 candidates 21230 3843s\n"}
+,{"stream_name":"stdout","time":5346.313053091,"data":"[ice     0.3s] installing wheels -\u003e /kaggle/working/ice_site\n"}
+,{"stream_name":"stdout","time":5346.313095261,"data":"[ice     3.5s] stubbed (absent) modules: ['pygmtools']\n"}
+,{"stream_name":"stdout","time":5346.313101686,"data":"[ice    30.6s] ms_pred tautomer mode v2 cache /tmp/ice_ms_pred_cache\n"}
+,{"stream_name":"stdout","time":5346.313106608,"data":"[ice    31.3s] model loaded on cuda (rdkit 2025.03.6, torch 2.10.0+cu128, numba True)\n"}
+,{"stream_name":"stdout","time":5346.313111629,"data":"[ice   122.2s] chunk: 31 mols 3010 jobs 82.5s (31/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313116919,"data":"[ice   207.6s] chunk: 28 mols 3090 jobs 81.9s (59/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313121318,"data":"[ice   289.9s] chunk: 26 mols 3044 jobs 78.8s (85/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313125829,"data":"[ice   371.1s] chunk: 25 mols 3011 jobs 77.5s (110/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313130356,"data":"[ice   452.6s] chunk: 27 mols 3080 jobs 77.6s (137/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313134856,"data":"[ice   534.5s] chunk: 25 mols 3159 jobs 78.3s (162/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313142703,"data":"[ice   615.8s] chunk: 25 mols 3014 jobs 77.7s (187/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313146711,"data":"[ice   695.7s] chunk: 28 mols 3032 jobs 76.0s (215/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313149866,"data":"[ice   778.8s] chunk: 28 mols 3059 jobs 78.8s (243/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313153004,"data":"[ice   863.6s] chunk: 28 mols 3049 jobs 80.9s (271/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313156232,"data":"[ice   952.0s] chunk: 28 mols 3079 jobs 84.2s (299/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313159206,"data":"[ice  1034.2s] chunk: 26 mols 3004 jobs 78.6s (325/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313162166,"data":"[ice  1115.8s] chunk: 26 mols 3165 jobs 77.8s (351/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313165199,"data":"[ice  1175.7s] chunk: 20 mols 2203 jobs 56.9s (371/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5346.313168191,"data":"[ice  1175.8s] status ok {'n_mols': 400, 'n_mols_covered': 371, 'n_mols_scored': 371, 'n_cands': 21230, 'n_scored': 19758}\n"}
+,{"stream_name":"stdout","time":5346.313179607,"data":"\n"}
+,{"stream_name":"stdout","time":5346.313181971,"data":"{'status': 'ok', 'n_mols': 400, 'n_mols_covered': 371, 'n_mols_scored': 371, 'n_cands': 21230, 'n_scored': 19758, 'seconds': 1175.71, 'pred_per_s': 37.43, 'device': 'cuda', 'rdkit': '2025.03.6', 'max_mem_gb': 4.21}\n"}
+,{"stream_name":"stdout","time":5346.313188844,"data":"ICE meta {\"status\": \"ok\", \"n_mols\": 400, \"n_mols_scored\": 371, \"n_mols_covered\": 371, \"n_cands\": 21230, \"n_scored\": 19758, \"errors\": [], \"rdkit\": \"2025.03.6\", \"torch\": \"2.10.0+cu128\", \"device\": \"cuda\", \"t_load\": 31.27, \"n_pred\": 40645, \"n_pred_fail\": 0, \"t_pred\": 1085.77, \"n_bad_smiles\": 0, \"pred_per_s\": 37.43, \"max_mem_gb\": 4.21, \"seconds\": 1175.71, \"log_tail\": [\"[ice     0.3s] installing wheels -\u003e /kaggle/working/ice_site\", \"[ice     3.5s] stubbed (absent) modules: ['pygmtools']\", \"[ice    30.6s] ms_pred tautomer mode v2 cache /tmp/ice_ms_pred_cache\", \"[ice    31.3s] model loaded on cuda (rdkit 2025.03.6, torch 2.10.0+cu128, numba True)\", \"[ice   122.2s] chunk: 31 mols 3010 jobs 82.5s (31/371 covered mols scored)\", \"[ice   207.6s] chunk: 28 mols 3090 jobs 81.9s (59/371 covered mols scored)\", \"[ice   289.9s] chunk: 26 mols 3044 jobs 78.8s (85/371 covered mols scored)\", \"[ice   371.1s] chunk: 25 mols 3011 jobs 77.5s (110/371 covered mols scored)\", \"[ice   452.6s] chunk: 27 mols 3080 jobs 77.6s (137/371 covered mols scored)\", \"[ice   534.5s] chunk: 25 mols 3159 jobs 78.3s (162/371 covered mols scored)\", \"[ice   615.8s] chunk: 25 mols 3014 jobs 77.7s (187/371 covered mols scored)\", \"[ice   695.7s] chunk: 28 mols 3032 jobs 76.0s (215/371 covered mols scored)\", \"[ice   778.8s] chunk: 28 mols 3059 jobs 78.8s (243/371 covered mols scored)\", \"[ice   863.6s] chunk: 28 mols 3049 jobs 80.9s (271/371 covered mols scored)\", \"[ice   952.0s] chunk: 28 mols 3079 jobs 84.2s (299/371 covered mols scor\n"}
+,{"stream_name":"stdout","time":5819.550795763,"data":"[gl     0.3s] site ready (marker matches): /kaggle/working/ice_site\n"}
+,{"stream_name":"stdout","time":5819.55085176,"data":"[gl     0.4s] stubbed (absent) modules: ['pygmtools']\n"}
+,{"stream_name":"stdout","time":5819.550858497,"data":"[gl    14.1s] GLACIER loaded: 15,108,154 params \n"}
+,{"stream_name":"stdout","time":5819.550863699,"data":"[gl    14.1s] model loaded on cuda (rdkit 2025.03.6, torch 2.10.0+cu128, numba True, threads 2)\n"}
+,{"stream_name":"stdout","time":5819.550868859,"data":"/usr/local/lib/python3.12/dist-packages/torch/nn/modules/transformer.py:531: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. We recommend specifying layout=torch.jagged when constructing a nested tensor, as this layout receives active development, has better operator coverage, and works with torch.compile. (Triggered internally at /pytorch/aten/src/ATen/NestedTensorImpl.cpp:178.)\n"}
+,{"stream_name":"stdout","time":5819.550875559,"data":"  output = torch._nested_tensor_from_mask(\n"}
+,{"stream_name":"stdout","time":5819.550880022,"data":"[gl    55.6s] chunk: 31 mols 3010 jobs 35.9s (31/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550884413,"data":"[gl    88.4s] chunk: 28 mols 3090 jobs 31.8s (59/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550888728,"data":"[gl   120.2s] chunk: 26 mols 3044 jobs 30.9s (85/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550893075,"data":"[gl   151.7s] chunk: 25 mols 3011 jobs 30.5s (110/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550897494,"data":"[gl   187.1s] chunk: 27 mols 3080 jobs 34.2s (137/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.55090184,"data":"[gl   218.1s] chunk: 25 mols 3159 jobs 30.1s (162/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550927746,"data":"[gl   248.2s] chunk: 25 mols 3014 jobs 29.2s (187/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550942941,"data":"[gl   279.7s] chunk: 28 mols 3032 jobs 30.5s (215/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550947067,"data":"[gl   313.5s] chunk: 28 mols 3059 jobs 32.7s (243/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550951249,"data":"[gl   346.8s] chunk: 28 mols 3049 jobs 32.2s (271/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550955287,"data":"[gl   383.0s] chunk: 28 mols 3079 jobs 35.0s (299/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550959396,"data":"[gl   415.6s] chunk: 26 mols 3004 jobs 31.6s (325/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550962895,"data":"[gl   446.8s] chunk: 26 mols 3165 jobs 30.3s (351/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550966433,"data":"[gl   470.2s] chunk: 20 mols 2203 jobs 22.6s (371/371 covered mols scored)\n"}
+,{"stream_name":"stdout","time":5819.550969921,"data":"[gl   470.2s] status ok {'n_mols': 400, 'n_mols_covered': 371, 'n_mols_scored': 371, 'n_cands': 21230, 'n_scored': 19758}\n"}
+,{"stream_name":"stdout","time":5819.550973512,"data":"\n"}
+,{"stream_name":"stdout","time":5819.550978361,"data":"{'status': 'ok', 'n_mols': 400, 'n_mols_covered': 371, 'n_mols_scored': 371, 'n_cands': 21230, 'n_scored': 19758, 'seconds': 470.2, 'pred_per_s': 93.34, 'device': 'cuda', 'rdkit': '2025.03.6', 'max_mem_gb': 0.36}\n"}
+,{"stream_name":"stdout","time":5819.550983447,"data":"GL meta {\"model\": \"glacier\", \"status\": \"ok\", \"n_mols\": 400, \"n_mols_scored\": 371, \"n_mols_covered\": 371, \"n_cands\": 21230, \"n_scored\": 19758, \"errors\": [], \"rdkit\": \"2025.03.6\", \"torch\": \"2.10.0+cu128\", \"device\": \"cuda\", \"t_load\": 14.09, \"n_pred\": 40645, \"n_pred_fail\": 0, \"n_feat_fail\": 0, \"t_pred\": 435.43, \"n_bad_smiles\": 0, \"pred_per_s\": 93.34, \"bs_final\": 32, \"max_mem_gb\": 0.36, \"seconds\": 470.2, \"log_tail\": [\"[gl     0.3s] site ready (marker matches): /kaggle/working/ice_site\", \"[gl     0.4s] stubbed (absent) modules: ['pygmtools']\", \"[gl    14.1s] GLACIER loaded: 15,108,154 params \", \"[gl    14.1s] model loaded on cuda (rdkit 2025.03.6, torch 2.10.0+cu128, numba True, threads 2)\", \"[gl    55.6s] chunk: 31 mols 3010 jobs 35.9s (31/371 covered mols scored)\", \"[gl    88.4s] chunk: 28 mols 3090 jobs 31.8s (59/371 covered mols scored)\", \"[gl   120.2s] chunk: 26 mols 3044 jobs 30.9s (85/371 covered mols scored)\", \"[gl   151.7s] chunk: 25 mols 3011 jobs 30.5s (110/371 covered mols scored)\", \"[gl   187.1s] chunk: 27 mols 3080 jobs 34.2s (137/371 covered mols scored)\", \"[gl   218.1s] chunk: 25 mols 3159 jobs 30.1s (162/371 covered mols scored)\", \"[gl   248.2s] chunk: 25 mols 3014 jobs 29.2s (187/371 covered mols scored)\", \"[gl   279.7s] chunk: 28 mols 3032 jobs 30.5s (215/371 covered mols scored)\", \"[gl   313.5s] chunk: 28 mols 3059 jobs 32.7s (243/371 covered mols scored)\", \"[gl   346.8s] chunk: 28 mols 3049 jobs 32.2s (271/371 covered mols scored)\", \"[gl   383.0s] chunk: 28 mols 3079 j\n"}
+,{"stream_name":"stdout","time":5819.551000904,"data":"ICE rerank stats {'molecules': 371, 'changed_top25': 365, 'changed_top1': 4} 5495s\n"}
+,{"stream_name":"stdout","time":5819.551004585,"data":"GL rerank stats {'molecules': 371, 'changed_vs_ice_top25': 365, 'changed_vs_ice_top1': 2} 5495s\n"}
+,{"stream_name":"stdout","time":5819.800029059,"data":"merge stats {'untouched': 400, 'gentle': 0, 'aggressive': 0, 'no_pc': 0} | promotion triggers 0\n"}
+,{"stream_name":"stdout","time":5819.800061611,"data":"done (400, 2) 5496s\n"}
+,{"stream_name":"stderr","time":5889.323784648,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":5889.323832359,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":5889.500075725,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":5889.500102998,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":5890.189024647,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":5890.691414294,"data":"[NbConvertApp] Writing 6478430 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":5893.17136082,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":5894.475490854,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":5894.47553779,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.475885782,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.476072147,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.476265144,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.476435664,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.476679687,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.476869441,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.477079,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.477261731,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.477446525,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.477593014,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.477831218,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.477946638,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.478170975,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.478316045,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.478508039,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.47867218,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.478906875,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.479115131,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.479341555,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.47953041,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.479764745,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.480016247,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.480276768,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.480583662,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.480962311,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.481258094,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.481531297,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.482046854,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.482853622,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.483089914,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.483252985,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.483534163,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.483698954,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.483968928,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.48416409,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.484385885,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.48453032,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.484738823,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.484887148,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":5894.485125953,"data":"[NbConvertApp] Writing 3183454 bytes to __results__.html\n"}
+]
