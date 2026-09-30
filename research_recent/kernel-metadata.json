@@ -1,0 +1,31 @@
+{
+  "id": "dmitriigluzdov/casmi-26-from-spectra-to-structures",
+  "id_no": 134484860,
+  "title": "CASMI 26: From Spectra to Structures",
+  "code_file": "enveda-casmi-2026.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "dmitriigluzdov/casmi26-attributed-v4g-reproduction-assets",
+    "dmitriigluzdov/casmi26-identity-disjoint-validation-folds",
+    "dmitriigluzdov/casmi26-natural-product-knowledge-table",
+    "dmitriigluzdov/casmi26-natural-product-panel-benchmark",
+    "dmitriigluzdov/casmi26-open-model-and-candidate-resources",
+    "dmitriigluzdov/casmi26-pubchem-popularity-prior",
+    "ahmedberatozer/casmi26-glacier"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "enveda-CASMI26-molecule-id-mass-spectra"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:37c64f7dd9c54116ecd1bcc88817c5469b88387388fade02bfa8bf3fc647d461",
+  "machine_shape": "NvidiaTeslaT4"
+}

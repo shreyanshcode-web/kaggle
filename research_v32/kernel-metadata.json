@@ -1,11 +1,11 @@
 {
-  "id": "haideptry/0-350-casmi-2026-v32-ensemble",
-  "id_no": 134683766,
-  "title": "0.350+ CASMI 2026 v32 Ensemble",
+  "id": "shreyanshsingh7777/notebooke7bd6288d5",
+  "id_no": 134815083,
+  "title": "notebooke7bd6288d5",
   "code_file": "0-350-casmi-2026-v32-ensemble.ipynb",
   "language": "python",
   "kernel_type": "notebook",
-  "is_private": false,
+  "is_private": true,
   "enable_gpu": true,
   "enable_tpu": false,
   "enable_internet": false,
@@ -21,8 +21,7 @@
     "prvsiyan/casmi26-ranker-features",
     "megayak/casmi26-simulated-ranker-rows",
     "prvsiyan/chebi-lipidmaps-casmi26",
-    "prvsiyan/coconut-casmi26-candidates",
-    "thedevastator/open-source-natural-product-annotations"
+    "prvsiyan/coconut-casmi26-candidates"
   ],
   "kernel_sources": [],
   "competition_sources": [
