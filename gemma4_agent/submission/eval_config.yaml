@@ -1,0 +1,6 @@
+evaluation:
+  # Initial cap assumes about 120 tasks; recompute from actual count and setup-time pilot.
+  timeout_seconds: 120
+  max_tool_calls: 28
+  max_time_minutes: 4
+  max_turns: 24

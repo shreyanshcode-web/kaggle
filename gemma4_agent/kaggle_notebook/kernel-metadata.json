@@ -1,0 +1,19 @@
+{
+  "id": "shreyanshsingh7777/gemma-4-developer-agent-baseline-zip-v1",
+  "title": "Gemma 4 Developer Agent - Baseline ZIP v1",
+  "code_file": "gemma4_agent_baseline_v1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gemma-4-developer-agent"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:37c64f7dd9c54116ecd1bcc88817c5469b88387388fade02bfa8bf3fc647d461",
+  "machine_shape": "NvidiaL4"
+}
