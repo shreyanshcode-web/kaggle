@@ -1,0 +1,17 @@
+name: code_analyzer
+model: gemma-4-31b-it-qat-w4a16-ct
+description: Read-only repository localizer. Return likely implementation files, symbols, callers, and the smallest useful tests.
+instruction: !include analyzer.md
+tools:
+  - run_command
+  - read_file
+  - get_code_neighbors
+  - search_similar_code
+  - get_code_subgraph
+generate_content_config:
+  temperature: 0.1
+  top_p: 0.95
+  max_output_tokens: 2048
+  thinking_config:
+    include_thoughts: true
+    thinking_budget: 1024

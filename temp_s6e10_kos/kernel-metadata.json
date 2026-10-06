@@ -1,0 +1,32 @@
+{
+  "id": "kospintr/airline-lgbm-catb-xgb-realmlp-baseline",
+  "id_no": 136617206,
+  "title": "Airline | LGBM/CatB/XGB/RealMLP| Baseline",
+  "code_file": "airline-lgbm-catb-xgb-realmlp-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "ensembling",
+    "xgboost",
+    "binary classification",
+    "lightgbm",
+    "catboost",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "arseniyshutko/binary-aviation-satisfaction-129k"
+  ],
+  "kernel_sources": [
+    "packagemanager/pm-136617206-at-10-05-2026-19-06-11"
+  ],
+  "competition_sources": [
+    "playground-series-s6e10"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:37c64f7dd9c54116ecd1bcc88817c5469b88387388fade02bfa8bf3fc647d461",
+  "machine_shape": "NvidiaTeslaT4"
+}

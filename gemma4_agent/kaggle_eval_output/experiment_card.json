@@ -1,0 +1,55 @@
+{
+  "model": "gemma-4-31b-it-qat-w4a16-ct",
+  "machine": "4x NVIDIA L4",
+  "public_panel_ids": [
+    "rich_3470",
+    "httpx_3672",
+    "fastapi_14986",
+    "requests_7502",
+    "rich_3506",
+    "fastapi_14371",
+    "requests_6644",
+    "rich_3953"
+  ],
+  "arms": {
+    "current_v1_4m": {
+      "resolved": 0,
+      "tasks": 8,
+      "rate": 0.0,
+      "test_files_touched": 0,
+      "infra_errors": 8,
+      "mean_seconds": 2.5,
+      "mean_tool_calls": 0.0
+    },
+    "budget_only_9m": {
+      "resolved": 0,
+      "tasks": 8,
+      "rate": 0.0,
+      "test_files_touched": 0,
+      "infra_errors": 8,
+      "mean_seconds": 1.0,
+      "mean_tool_calls": 0.0
+    },
+    "public_anchor_0_12": {
+      "resolved": 1,
+      "tasks": 8,
+      "rate": 0.125,
+      "test_files_touched": 0,
+      "infra_errors": 0,
+      "mean_seconds": 92.3,
+      "mean_tool_calls": 28.2
+    },
+    "lean_v3_8m": {
+      "resolved": 1,
+      "tasks": 8,
+      "rate": 0.125,
+      "test_files_touched": 0,
+      "infra_errors": 0,
+      "mean_seconds": 59.0,
+      "mean_tool_calls": 15.1
+    }
+  },
+  "selected_arm": "lean_v3_8m",
+  "submission_zip_sha256": "031b4faa06cb30a3afea93c23bf89a04f6622e39b2e3cb9c5c7f5058905e1646",
+  "caveat": "Eight public development issues are a small local comparison, not Kaggle hidden/public leaderboard score."
+}

@@ -1,0 +1,1 @@
+Kaggle version 10 smoke run: about 19 minutes for 12 molecules plus library cache. Hidden scoring rerun uses 400 molecules. Full v20 attributed smoke run previously reported 5,557 sec.

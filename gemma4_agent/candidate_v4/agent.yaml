@@ -1,0 +1,10 @@
+name: gemma4_swe_agent_v4
+model: gemma-4-31b-it-qat-w4a16-ct
+description: Focused Gemma SWE agent that makes an evidence-based production fix and submits promptly.
+instruction: !include prompts/system.md
+tools:
+  - run_command
+  - read_file
+  - edit_file
+  - submit_patch
+generate_content_config: !include configs/sampling.yaml

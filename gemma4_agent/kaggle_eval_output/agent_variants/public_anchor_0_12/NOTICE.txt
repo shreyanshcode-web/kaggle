@@ -1,0 +1,1 @@
+This comparison arm is adapted from the public Kaggle notebook lucifer19/black-cat-swe-agent-pack-instinct, which states that it is released under Apache-2.0. The public notebook reports a 0.12 score for this anchor bundle. This is a local development comparator; its score is not a result for this account.

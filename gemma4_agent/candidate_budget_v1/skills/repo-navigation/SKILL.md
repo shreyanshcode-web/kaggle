@@ -1,5 +1,5 @@
 ---
-name: repo_navigation
+name: repo-navigation
 description: Efficient, low-noise repository navigation for software issue repair.
 ---
 

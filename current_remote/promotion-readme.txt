@@ -1,0 +1,1 @@
+Version 10 baseline 0.399. Keep baseline candidate retrieval and ranking unchanged except an evidence-gated PubChem top-1 promotion based on the published prior thresholds.

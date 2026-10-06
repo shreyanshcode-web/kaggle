@@ -100,8 +100,18 @@ def main() -> int:
     skill_manifests = list(root.glob("skills/**/SKILL.md"))
     for manifest in skill_manifests:
         frontmatter = manifest.read_text(encoding="utf-8").split("---", 2)
-        if len(frontmatter) < 3 or not re.search(r"(?m)^name:\s*[A-Za-z0-9_-]+\s*$", frontmatter[1]):
-            fail(f"SKILL.md needs YAML frontmatter with name: {manifest.relative_to(root)}")
+        name_match = (
+            re.search(r"(?m)^name:\s*([a-z0-9]+(?:-[a-z0-9]+)*)\s*$", frontmatter[1])
+            if len(frontmatter) >= 3
+            else None
+        )
+        if name_match is None:
+            fail(f"SKILL.md name must use lowercase kebab-case: {manifest.relative_to(root)}")
+        if name_match.group(1) != manifest.parent.name:
+            fail(
+                f"SKILL.md name must match its directory ({manifest.parent.name!r}): "
+                f"{manifest.relative_to(root)}"
+            )
 
     try:
         import yaml
